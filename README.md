@@ -16,3 +16,15 @@ This project serves as a gentle introduction to the world of Python programming.
 
 - [Task 5 - Personal Finance Calculator](./python_introduction/finance_calculator.py)
 
+## Control Flow and Loops
+
+This project dives into the world of control flow and loops, essential concepts for introducing logic into Python programs.
+
+### Mandatory Tasks
+
+- [Task 0 - Weather Advice](./control-flow/weather_advice.py)
+- [Task 1 - Match Case Calculator](./control-flow/match_case_calculator.py)
+- [Task 2 - Multiplication Table](./control-flow/multiplication_table.py)
+- [Task 3 - Pattern Drawing](./control-flow/pattern_drawing.py)
+- [Task 4 - Daily Reminder](./control-flow/daily_reminder.py)
+
