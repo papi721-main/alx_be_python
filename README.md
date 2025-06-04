@@ -28,3 +28,15 @@ This project dives into the world of control flow and loops, essential concepts 
 - [Task 3 - Pattern Drawing](./control-flow/pattern_drawing.py)
 - [Task 4 - Daily Reminder](./control-flow/daily_reminder.py)
 
+
+## Functions, Data Structures and Modules
+
+This project delves into the fundamentals of functions, data structures, and modules in Python.
+
+### Mandatory Tasks
+
+- [Task 0 - Arithmetic Operations](./fns_and_dsa/arithmetic_operations.py)
+- [Task 1 - Shopping List Manager](./fns_and_dsa/shopping_list_manager.py)
+- [Task 2 - Explore `datetime`](./fns_and_dsa/explore_datetime.py)
+- [Task 3 - Temperature Conversion Tool](./fns_and_dsa/temp_conversion_tool.py)
+
