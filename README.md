@@ -31,3 +31,12 @@ This project delves into the fundamentals of functions, data structures, and mod
 - [Task 2 - Explore `datetime`](./fns_and_dsa/explore_datetime.py)
 - [Task 3 - Temperature Conversion Tool](./fns_and_dsa/temp_conversion_tool.py)
 
+## [Programming Paradigms & Exception handling](./programming_paradigm/)
+
+This project introduces you to the fundamental concepts of Object-Oriented Programming (OOP) in Python and Exception Handling.
+
+- [Task 0 - Simple Bank Account Class](./programming_paradigm/bank_account.py)
+- [Task 1 - Robust Division Calculator](./programming_paradigm/robust_division_calculator.py)
+- [Task 2 - Unittests for a Simple Calculator](./programming_paradigm/test_simple_calculator.py)
+- [Task 3 - Simple Library Management System](./programming_paradigm/library_management.py)
+
