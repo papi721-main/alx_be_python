@@ -16,7 +16,7 @@ This project serves as a gentle introduction to the world of Python programming.
 
 - [Task 5 - Personal Finance Calculator](./python_introduction/finance_calculator.py)
 
-## Control Flow and Loops
+## [Control Flow and Loops](./control-flow/)
 
 This project dives into the world of control flow and loops, essential concepts for introducing logic into Python programs.
 
@@ -29,7 +29,7 @@ This project dives into the world of control flow and loops, essential concepts 
 - [Task 4 - Daily Reminder](./control-flow/daily_reminder.py)
 
 
-## Functions, Data Structures and Modules
+## [Functions, Data Structures and Modules](./fns_and_dsa/)
 
 This project delves into the fundamentals of functions, data structures, and modules in Python.
 
