@@ -40,3 +40,12 @@ This project introduces you to the fundamental concepts of Object-Oriented Progr
 - [Task 2 - Unittests for a Simple Calculator](./programming_paradigm/test_simple_calculator.py)
 - [Task 3 - Simple Library Management System](./programming_paradigm/library_management.py)
 
+## [More on OOP](./oop/)
+
+This project explores advanced Object-Oriented Programming (OOP) concepts in Python, including inheritance, polymorphism, and the use of class and static methods.
+
+- [Task 0 - Book Class](./oop/book_class.py)
+- [Task 1 - Library System](./oop/library_system.py)
+- [Task 2 - Polymorphism Demo](./oop/polymorphism_demo.py)
+- [Task 3 - Class and Static Methods Demo](./oop/class_static_methods_demo.py)
+
